@@ -1,0 +1,16 @@
+F:\NC4\MovieCoreApp\MovieCoreApp.DAL\bin\Debug\netcoreapp3.1\MovieCoreApp.DAL.deps.json
+F:\NC4\MovieCoreApp\MovieCoreApp.DAL\bin\Debug\netcoreapp3.1\MovieCoreApp.DAL.runtimeconfig.json
+F:\NC4\MovieCoreApp\MovieCoreApp.DAL\bin\Debug\netcoreapp3.1\MovieCoreApp.DAL.runtimeconfig.dev.json
+F:\NC4\MovieCoreApp\MovieCoreApp.DAL\bin\Debug\netcoreapp3.1\MovieCoreApp.DAL.dll
+F:\NC4\MovieCoreApp\MovieCoreApp.DAL\bin\Debug\netcoreapp3.1\MovieCoreApp.DAL.pdb
+F:\NC4\MovieCoreApp\MovieCoreApp.DAL\bin\Debug\netcoreapp3.1\MovieCoreApp.Entity.dll
+F:\NC4\MovieCoreApp\MovieCoreApp.DAL\bin\Debug\netcoreapp3.1\MovieCoreApp.Entity.pdb
+F:\NC4\MovieCoreApp\MovieCoreApp.DAL\obj\Debug\netcoreapp3.1\MovieCoreApp.DAL.csproj.AssemblyReference.cache
+F:\NC4\MovieCoreApp\MovieCoreApp.DAL\obj\Debug\netcoreapp3.1\MovieCoreApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\NC4\MovieCoreApp\MovieCoreApp.DAL\obj\Debug\netcoreapp3.1\MovieCoreApp.DAL.AssemblyInfoInputs.cache
+F:\NC4\MovieCoreApp\MovieCoreApp.DAL\obj\Debug\netcoreapp3.1\MovieCoreApp.DAL.AssemblyInfo.cs
+F:\NC4\MovieCoreApp\MovieCoreApp.DAL\obj\Debug\netcoreapp3.1\MovieCoreApp.DAL.csproj.CoreCompileInputs.cache
+F:\NC4\MovieCoreApp\MovieCoreApp.DAL\obj\Debug\netcoreapp3.1\MovieCoreApp.DAL.csproj.CopyComplete
+F:\NC4\MovieCoreApp\MovieCoreApp.DAL\obj\Debug\netcoreapp3.1\MovieCoreApp.DAL.dll
+F:\NC4\MovieCoreApp\MovieCoreApp.DAL\obj\Debug\netcoreapp3.1\MovieCoreApp.DAL.pdb
+F:\NC4\MovieCoreApp\MovieCoreApp.DAL\obj\Debug\netcoreapp3.1\MovieCoreApp.DAL.genruntimeconfig.cache
